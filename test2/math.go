@@ -4,7 +4,7 @@ func Add(a, b float64) float64 {
 	return a + b
 }
 
-// added tag
+// added tag v2
 func AddPlus1(a, b float64) float64 {
 	return a + b + 1
 }
