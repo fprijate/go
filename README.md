@@ -1,3 +1,3 @@
 # go-test
 
-testing go packages
+Test repo for testing Go modules
