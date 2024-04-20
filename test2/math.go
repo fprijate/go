@@ -4,6 +4,10 @@ func Add(a, b float64) float64 {
 	return a + b
 }
 
+func AddPlus1(a, b float64) float64 {
+	return a + b + 1
+}
+
 func Mul(a, b float64) float64 {
 	return a * b
 }
