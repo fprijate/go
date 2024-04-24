@@ -10,5 +10,6 @@ import (
 func main() {
 	// TAGV DFS
 	//DRUGI
+	//TRETJI
 	fmt.Println(test1.Add(3, 4), test2.Mul(3, 4))
 }
